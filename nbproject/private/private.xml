@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/conn/MySqlDbConnection.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/conn/TestMySqlConnection.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/dao/StudentReqDao.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/question/OnlineTest.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/service/StudentRegService.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/service/UserService.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/domain/StudentReq.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/dao/UserDao.java</file>
+            <file>file:/C:/Users/J2EE-33/Documents/NetBeansProjects/OnlineTest/src/com/fahmida/view/StudentRegForm.java</file>
+        </group>
+    </open-files>
+</project-private>
