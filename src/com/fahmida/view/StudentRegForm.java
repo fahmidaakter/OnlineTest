@@ -208,10 +208,10 @@ public class StudentRegForm extends javax.swing.JFrame {
             service = new StudentRegService();
             service.save(sr);
 
+            this.setVisible(false);
+            new OnlineTest().setVisible(true);
         }
-        
-        this.setVisible(false);
-        new OnlineTest().setVisible(true);
+
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
